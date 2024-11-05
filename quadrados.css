@@ -1,0 +1,30 @@
+.primeiro {width: 200px;
+height: 200px;
+background-color:red;
+border: 2px solid black;
+display:inline-block}
+
+.primeiro-2 {width: 200px;
+ height: 200px;
+ background-color:red;
+display:inline-block}
+
+.segundo {width: 200px;
+    height: 200px;
+    background-color:red;
+   display:inline-block}
+
+.segundo-2 {width: 200px;
+height: 200px;
+background-color:cornflowerblue;
+ display:inline-block}
+
+ .terceiro {width: 200px;
+height: 200px;
+background-color:forestgreen;
+display:inline-block}
+
+.quarto {width: 200px;
+height: 200px;
+background-color:yellow;
+display:inline-block}
